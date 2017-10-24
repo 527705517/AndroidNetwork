@@ -15,10 +15,7 @@ import java.util.Map;
 
 
 /**
- * Author : 张丹江
- * Time : 2017/6/16 18:15
  * Function :
- * Mail : zhangdanjiang_java@163.com
  */
 
 public class VolleyProcessor implements IHttpProcessor{

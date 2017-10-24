@@ -3,11 +3,8 @@ package com.jing.demo01;
 import java.util.Map;
 
 /**
- * Author : 张丹江
- * Time : 2017/6/16 18:08
  * Function :
  *      代理类
- * Mail : zhangdanjiang_java@163.com
  */
 
 public class HttpHelper implements IHttpProcessor{

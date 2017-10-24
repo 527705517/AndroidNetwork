@@ -4,13 +4,10 @@ import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 
 /**
- * Author : 张丹江
- * Time : 2017/6/16 17:13
  * Function :
  *
  *      利用泛型实现通用的回调接口
  *
- * Mail : zhangdanjiang_java@163.com
  */
 
 public abstract class HttpCallback<Result> implements ICallBack {

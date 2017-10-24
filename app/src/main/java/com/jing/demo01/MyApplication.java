@@ -5,7 +5,6 @@ import android.app.Application;
 import org.xutils.x;
 
 /**
- * Created by jiang on 2017/6/17.
  */
 
 public class MyApplication extends Application{

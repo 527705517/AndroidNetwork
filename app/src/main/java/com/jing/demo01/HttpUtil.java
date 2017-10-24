@@ -1,11 +1,8 @@
 package com.jing.demo01;
 
 /**
- * Author : zdj
- * Time : 2017/3/14 16:26
  * Function :
  *      网络请求工具
- * Mail : zhangdanjiang_java@163.com
  */
 
 public final class HttpUtil {
